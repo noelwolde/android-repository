@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\@Android\\Android\\AndroidSamples\\AndroidSamples\\RecyclerView\\RecyclerView\\Application\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\hailenw\\.android\\build-cache\\02765e06baec43f3be12ccb2c35a7882d6752c50\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\@Android\\Android\\AndroidSamples\\AndroidSamples\\RecyclerView\\RecyclerView\\Application\\build\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\hailenw\\.android\\build-cache\\02765e06baec43f3be12ccb2c35a7882d6752c50\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\@Android\\Android\\AndroidSamples\\AndroidSamples\\RecyclerView\\RecyclerView\\Application\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\hailenw\\.android\\build-cache\\02765e06baec43f3be12ccb2c35a7882d6752c50\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\@Android\\Android\\AndroidSamples\\AndroidSamples\\RecyclerView\\RecyclerView\\Application\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\hailenw\\.android\\build-cache\\02765e06baec43f3be12ccb2c35a7882d6752c50\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]
